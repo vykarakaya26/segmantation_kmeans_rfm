@@ -1,4 +1,4 @@
-![segmantation](/Users/yagizkarakaya/Desktop/segmantation.jpeg)
+![Segmantation](/Users/yagizkarakaya/Desktop/segmantation.jpeg)
 
 # Business Problem:
 ######  An e-commerce company wants to segment its customers and determine marketing strategies based on these segments.
