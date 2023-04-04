@@ -17,7 +17,7 @@
 ##### Country: Country name. The country where the customer lives.
 
 # RFM 
-####### RFM (Recency, Frequency, Monetary) is a method of customer segmentation based on their transaction history.
+###### RFM (Recency, Frequency, Monetary) is a method of customer segmentation based on their transaction history.
 ###### Recency refers to how recently a customer has made a purchase, with more recent purchases indicating higher engagement with the brand.
 ###### Frequency measures how often a customer has made purchases, with more frequent purchases indicating a higher level of loyalty.
 ###### Monetary measures the amount of money a customer has spent on purchases, with higher monetary values indicating a higher lifetime value for the customer.
