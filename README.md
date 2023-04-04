@@ -1,4 +1,4 @@
-![Segmantation](/Users/yagizkarakaya/Desktop/segmantation.jpeg)
+![Segmantation]([/Users/yagizkarakaya/Desktop/segmantation.jpeg](https://entrepreneurhandbook.co.uk/wp-content/uploads/2015/08/Segmenting-a-market.jpg.webp))
 
 # Business Problem:
 ######  An e-commerce company wants to segment its customers and determine marketing strategies based on these segments.
